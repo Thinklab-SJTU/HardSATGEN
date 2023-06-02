@@ -1,3 +1,0 @@
-c CPU time              : 647.251 s
-c CPU time              : 720.231 s
-c CPU time              : 874.747 s
