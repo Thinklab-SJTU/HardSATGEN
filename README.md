@@ -2,9 +2,11 @@
 
 Official implementation of SIGKDD 2023 paper "HardSATGEN: Understanding the Difficulty of Hard SAT Formula Generation and A Strong Structure-Hardness-Aware Baseline".
 
-## Acknowledgment
+![image-20230603233325455](figures/gen.png)
 
-This implementation is based on [G2SAT](https://github.com/JiaxuanYou/G2SAT) [1] and [SAT_generators](https://github.com/i4vk/SAT_generators) [2]. 
+Industrial SAT formula generation is a critical yet challenging task. Existing SAT generation approaches can hardly simultaneously capture the global structural properties and maintain plausible computational hardness. We first present an in-depth analysis for the limitation of previous learning methods in reproducing the computational hardness of original instances, which may stem from the inherent homogeneity in their adopted split-merge procedure. On top of the observations that industrial formulae exhibit clear community structure and oversplit substructures lead to the difficulty in semantic formation of logical structures, we propose HardSATGEN, which introduces a fine-grained control mechanism to the neural split-merge paradigm for SAT formula generation to better recover the structural and computational properties of the industrial benchmarks. Experiments including evaluations on private and practical corporate testbed show the superiority of HardSATGEN being the only method to successfully augments formulae maintaining similar computational hardness and capturing the global structural properties simultaneously. Compared to the best previous methods, the average performance gains achieve 38.5% in structural statistics, 88.4\% in computational metrics, and over 140.7% in the effectiveness of guiding solver tuning by our generated instances.
+
+---
 
 ## Installation
 
@@ -18,13 +20,13 @@ This implementation is based on [G2SAT](https://github.com/JiaxuanYou/G2SAT) [1]
 
 
 - Open source tools
-  - [cadical](https://github.com/arminbiere/cadical) [3]: `./postprocess/cadical`
+  - [cadical](https://github.com/arminbiere/cadical): `./postprocess/cadical`
     - build: `./configure && make`
-  - [drat-trim](https://github.com/marijnheule/drat-trim) [4]: `./postprocess/drat-trim`
+  - [drat-trim](https://github.com/marijnheule/drat-trim): `./postprocess/drat-trim`
     - build: `make`
   - glucose: See more in "Eval and solver tuning" section.
 
-## Dataset preparation
+## Dataset Preparation
 
 example dataset: `${dataset_name}`
 
@@ -53,7 +55,7 @@ How to build dataset when only formulas in hand:
     If a cnf file can't be found in csv, then it will not be use to train/test.
     ** The cnf-lcg converting process may cause "Stats not match", model will automatically skip these cnfs. Since the reason are still not clarified, if encountered this in train/test, we recommend you replace the bad files with some files that didn't cause this problem.
 
-## Example Run
+## Run
 
 1. Train
 
@@ -101,7 +103,7 @@ How to build dataset when only formulas in hand:
     The post-processed formulas will be stored in `./formulas/${dataset_name}_post`, logs in `./postprocess/cadical/build`
 
 
-## Eval and solver tuning
+## Eval and Solver Tuning
 
 1. Evaluate graph properties of formulas
     Make sure to build this first: 
@@ -116,7 +118,7 @@ How to build dataset when only formulas in hand:
     ```
     
 1. Solver tuning
-    Here we use [glucose](https://github.com/wadoon/glucose) [5] to test the tuning ability. (following the experiments settings of G2SAT)
+    Here we use [glucose](https://github.com/wadoon/glucose) to test the tuning ability. (following the experiments settings of G2SAT)
     Build glucose first. Download and build it under `./glucose`
 
     ```bash
@@ -132,15 +134,17 @@ How to build dataset when only formulas in hand:
 
     Now solve unseen dataset on it, compare the solving time between `real` and `generated` for the tuned parameters.
 
-## References
+## Reference
 
-[1] Jiaxuan You, HaozeWu, Clark Barrett, Raghuram Ramanujan, and Jure Leskovec. 2019. G2SAT: Learning to generate sat formulas. Advances in neural information processing systems 32 (2019).
+```bibtex
+@inproceedings{li2023hardsatgen,
+  title={HardSATGEN: Understanding the Difficulty of Hard SAT Formula Generation and A Strong Structure-Hardness-Aware Baseline},
+  author={Li, Yang and Chen, Xinyan and Guo, Wenxuan and Li, Xijun and Luo, Wanqian and Huang, Junhua and Zhen, Hui-Ling and Yuan, Mingxuan and Yan, Junchi},
+  booktitle={Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  year={2023}
+}
+```
 
-[2] Iván Garzón, Pablo Mesejo, and Jesús Giráldez-Cru. 2022. On the Performance of Deep Generative Models of Realistic SAT Instances. In 25th International Conference on Theory and Applications of Satisfiability Testing (SAT 2022).
+## Acknowledgment
 
-[3] Armin Biere Katalin Fazekas Mathias Fleury and Maximilian Heisinger. 2020. CaDiCaL, kissat, paracooba, plingeling and treengeling entering the SAT competition 2020. SAT COMPETITION 50 (2020), 2020.
-
-[4] Nathan Wetzler, Marijn JH Heule, and Warren A Hunt. 2014. DRAT-trim: Efficient checking and trimming using expressive clausal proofs. In Theory and Applications of Satisfiability Testing–SAT 2014: 17th International Conference, Held as Part of the Vienna Summer of Logic, VSL 2014, Vienna, Austria, July 14-17, 2014. Proceedings 17. Springer, 422–429.
-
-[5] Gilles Audemard and Laurent Simon. 2009. Glucose: a solver that predicts learnt
-clauses quality. SAT Competition (2009), 7–8.
+This repository is built upon [G2SAT](https://github.com/JiaxuanYou/G2SAT) and [SAT_generators](https://github.com/i4vk/SAT_generators). 
