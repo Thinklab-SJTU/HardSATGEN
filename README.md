@@ -24,40 +24,32 @@ Official implementation of SIGKDD 2023 paper "HardSATGEN: Understanding the Diff
     - build: `./configure && make`
   - [drat-trim](https://github.com/marijnheule/drat-trim): `./postprocess/drat-trim`
     - build: `make`
-  - glucose: See more in "Eval and solver tuning" section.
+  - glucose: See more in "Evalution and Solver Tuning" section.
 
 ## Dataset Preparation
 
-example dataset: `${dataset_name}`
+Example dataset: `${dataset_name}`
 
-- formula：put in `./dataset/${dataset_name}/`, named `${formula_name}.cnf` for each formula
-- core：put in `./dataset/${dataset_name}_core/`, named `${formula_name}_core` for each
-- lcg_stats.csv：exists in `./dataset/`, add each formula information with format as `${dataset_name}/${formula_name}, ${num_variable}, ${num_clause}`
+- formula: located in `./dataset/${dataset_name}/`,  `${formula_name}.cnf` for each formula
+- core: located in `./dataset/${dataset_name}_core/`,  `${formula_name}_core` for each
+- `./dataset/lcg_stats.csv`: statistics for the formulae with the format as `${dataset_name}/${formula_name}, ${num_variable}, ${num_clause}`
 
-How to build dataset when only formulas in hand:
+If needed, you can build your own dataset with collected formulae with the following steps:
 
-1. Prepare core: make sure to build cadical & drat-trim first
+1. Prepare core (make sure to build cadical & drat-trim first):
 
     ```bash
     bash scripts/solve_core.sh dataset/${dataset_name}
     ```
 
-    Core files will generated under `dataset/${dataset_name}`, move them into `dataset/${dataset_name}_core`.
-    Also, the cadical solving log are stored in dataset/class_name.log, check solving time if needed.
+    Core files will generated under `dataset/${dataset_name}`, then move them to `dataset/${dataset_name}_core`. The cadical solving log are stored in `dataset/class_name.log`, check solving time if needed.
+    
+2. Prepare statistics for the formulae: collect each formula's `dataset_name/formula_name, num_var, num_clause` statistics to form `./dataset/lcg_stats.csv`.
 
-2. Prepare csv
-
-    ```bash
-    dataset_name/formula_name, num_var, num_clause
-    ```
-
-    The information must be correspounding to original cnf file.
-    If a cnf file can't be found in csv, then it will not be use to train/test.
-    ** The cnf-lcg converting process may cause "Stats not match", model will automatically skip these cnfs. Since the reason are still not clarified, if encountered this in train/test, we recommend you replace the bad files with some files that didn't cause this problem.
 
 ## Run
 
-1. Train
+1. Train models:
 
     ```bash
     # Do not remain unsat core
@@ -66,9 +58,9 @@ How to build dataset when only formulas in hand:
     python src/main_train.py --epoch_num 201 --data_name ${dataset_name} --core_flag --model GCN # SAGE; GCN
     ```
 
-    After this step, trained models will be saved in `model/` directory.
+    Trained models will be saved in `model/` directory.
 
-2. Use to generate Formulas
+2. Generate formulae:
 
     ```bash
     python src/main_test.py --epoch_load 200 --data_name ${dataset_name} --model GCN # SAGE; GCN
@@ -76,19 +68,13 @@ How to build dataset when only formulas in hand:
     python src/main_test.py --epoch_num 200 --data_name ${dataset_name} --core_flag --model GCN # SAGE; GCN
     ```
 
-    After this step, generated graphs will be saved to `graphs/` directory. 1 graph is generated out of 1 template by default, check `args.py` for more options.
-
-    Graphs will be saved in a single `.dat` file containing all the generated graphs.
-
-    (It may take fairly long time: Running is fast, but updating networkx takes the majority of time in current implementation.)
-
-    We can then generate CNF formulas from the generated graphs
+    The generated graphs will be saved to `graphs/` directory. We can then generate CNF formulae by converting  the graphs:
 
     ```bash
-    python src/eval/conversion_lcg.py --src graphs/${dataset_name}_lcg_GCN_coreTrue_alpha.dat --store-dir formulas/${dataset_name} --action=lcg2sat
+python src/eval/conversion_lcg.py --src graphs/${dataset_name}_lcg_GCN_coreTrue_alpha.dat --store-dir formulas/${dataset_name} --action=lcg2sat
     ```
 
-3. Post-processing for Formulas
+3. Post-processing:
 
     ```bash
     cd scripts && bash auto_rmcore.sh ${dataset_name} 200 2255
@@ -100,26 +86,24 @@ How to build dataset when only formulas in hand:
     cd scripts && bash auto_rmcore_multi.sh ${dataset_name} 200 2255
     ```
 
-    The post-processed formulas will be stored in `./formulas/${dataset_name}_post`, logs in `./postprocess/cadical/build`
+    The post-processed formulae will be stored in `./formulas/${dataset_name}_post`, with logs in `./postprocess/cadical/build`.
 
 
-## Eval and Solver Tuning
+## Evalution and Solver Tuning
 
-1. Evaluate graph properties of formulas
-    Make sure to build this first: 
+1. Evaluate graph properties of formulas. 
     
     ```bash
+    # preparation
     g++ -o src/eval/scalefree eval/scalefree.cpp
-    ```
-    Evaluate generated formulas with:
-    ```bash
+    
     # evaluate
     python src/eval/evaluate_graphs_lcg.py -s src/eval/scalefree -d formulas/${dataset_name}/ -o ${dataset_name}.csv
     ```
     
-1. Solver tuning
-    Here we use [glucose](https://github.com/wadoon/glucose) to test the tuning ability. (following the experiments settings of G2SAT)
-    Build glucose first. Download and build it under `./glucose`
+1. Solver tuning. 
+    
+    Build [glucose](https://github.com/wadoon/glucose) solver first. Download and build it under `./glucose`.
 
     ```bash
     mkdir build
@@ -128,11 +112,8 @@ How to build dataset when only formulas in hand:
     make
     ```
 
-    Grid-search: change variable decay $v_d$ & clause decay $c_d$ in `glucose/core/Solver.cc`. `opt_var_decay`: {0.75, 0.85, 0.95}. `opt_clause_decay`: {0.7, 0.8, 0.9, 0.999}. There is 3 * 5 = 15 settings. For every settings, run `script/glucose_test.sh` to solve formulas in `glucose/generated`.
-    Pick the quickist settings of $v_d, c_d$ as the best tuned parameters.
-    Also, change `generated/real` in `glucose-test/run.sh` to test other set.
-
-    Now solve unseen dataset on it, compare the solving time between `real` and `generated` for the tuned parameters.
+    Grid-search: change variable decay $v_d$ & clause decay $c_d$ in `glucose/core/Solver.cc` ( `opt_var_decay`: {0.75, 0.85, 0.95}. `opt_clause_decay`: {0.7, 0.8, 0.9, 0.999}). For hyperparameter settings, run `script/glucose_test.sh` to solve the formulae in `glucose/generated`. Pick the quickist settings of $v_d, c_d$ as the best tuned parameters.
+    
 
 ## Reference
 
