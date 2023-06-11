@@ -5,7 +5,7 @@ class_name=${1}
 num_iter=${2}
 goal_time=${3}
 dir_path=../formulas/${class_name}
-core_dir_path=../formulas/${class_name}_core
+core_dir_path=../dataset/${class_name}_core
 
 for input in $dir_path/*.cnf; do
   cnf_name=${input##*/}

@@ -1,0 +1,228 @@
+mkdir: cannot create directory ‘../formulas/mdp_post’: File exists
+remove_core.sh: line 21: cd: ../postprocess/cadical/build: No such file or directory
+remove_core.sh: line 22: ./cadical: No such file or directory
+remove_core.sh: line 23: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 24: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp/mdp-28-11-unsat_repeat1.drat': No such file or directory
+rm: cannot remove '../formulas/mdp/mdp-28-11-unsat_repeat1_core': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r1.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r1_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r1.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r2.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r2_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r2.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r3.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r3_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r3.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r4.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r4_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r4.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r5.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r5_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r5.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r6.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r6_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r6.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r7.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r7_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r7.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r8.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r8_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r8.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r9.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r9_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r9.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r10.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r10_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r10.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r11.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r11_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r11.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r12.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r12_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r12.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r13.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r13_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r13.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r14.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r14_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r14.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r15.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r15_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r15.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r16.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r16_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r16.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r17.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r17_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r17.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r18.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r18_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r18.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r19.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r19_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r19.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/mdp-28-11-unsat_repeat1.log: No such file or directory
+tail: cannot open '../log/mdp-28-11-unsat_repeat1.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r20.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r20_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/mdp-28-11-unsat_repeat1_r20.drat': No such file or directory

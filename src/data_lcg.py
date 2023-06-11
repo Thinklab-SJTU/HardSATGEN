@@ -7,6 +7,7 @@ import torch
 from torch_geometric.data import Data
 import core
 import eval.conversion_lcg as conversion
+from batch import DataLoader, Dataset_mine
 
 import csv
 from utils import *

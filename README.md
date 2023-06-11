@@ -12,17 +12,20 @@ Official implementation of SIGKDD 2023 paper "HardSATGEN: Understanding the Diff
 
 - Basic environment (tested on)
   - python==3.8
-  - networkx==3.0
-  - pytorch==1.13.1+cu116
-  - torch_geometric
+  - pytorch==1.13.0+cu116
+  - torch_geometric==2.3
+  - networkx==2.8
   - pygmtools==0.3.5
-  - tensorboardX
+  - protobuf==3.20
+  - tensorboardX==2.2
+  - matplotlib==3.7.1
 
 
 - Open source tools
-  - [cadical](https://github.com/arminbiere/cadical): `./postprocess/cadical`
+  - [cadical](https://github.com/arminbiere/cadical): clone to `./postprocess/cadical`
     - build: `./configure && make`
-  - [drat-trim](https://github.com/marijnheule/drat-trim): `./postprocess/drat-trim`
+    - make dir `log` under `./postprocess/cadical/`
+  - [drat-trim](https://github.com/marijnheule/drat-trim): clone to `./postprocess/drat-trim`
     - build: `make`
   - glucose: See more in "Evalution and Solver Tuning" section.
 

@@ -1,0 +1,2208 @@
+mkdir: cannot create directory ‘../formulas/mdp_post’: No such file or directory
+remove_core.sh: line 21: cd: ../postprocess/cadical/build: No such file or directory
+remove_core.sh: line 22: ./cadical: No such file or directory
+remove_core.sh: line 23: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 24: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp/*.drat': No such file or directory
+rm: cannot remove '../formulas/mdp/*_core': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r1.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r1_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r1.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r2.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r2_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r2.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r3.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r3_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r3.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r4.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r4_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r4.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r5.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r5_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r5.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r6.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r6_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r6.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r7.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r7_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r7.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r8.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r8_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r8.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r9.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r9_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r9.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r10.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r10_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r10.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r11.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r11_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r11.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r12.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r12_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r12.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r13.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r13_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r13.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r14.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r14_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r14.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r15.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r15_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r15.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r16.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r16_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r16.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r17.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r17_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r17.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r18.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r18_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r18.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r19.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r19_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r19.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r20.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r20_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r20.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r21.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r21_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r21.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r22.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r22_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r22.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r23.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r23_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r23.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r24.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r24_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r24.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r25.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r25_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r25.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r26.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r26_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r26.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r27.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r27_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r27.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r28.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r28_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r28.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r29.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r29_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r29.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r30.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r30_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r30.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r31.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r31_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r31.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r32.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r32_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r32.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r33.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r33_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r33.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r34.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r34_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r34.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r35.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r35_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r35.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r36.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r36_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r36.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r37.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r37_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r37.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r38.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r38_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r38.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r39.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r39_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r39.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r40.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r40_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r40.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r41.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r41_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r41.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r42.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r42_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r42.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r43.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r43_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r43.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r44.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r44_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r44.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r45.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r45_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r45.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r46.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r46_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r46.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r47.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r47_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r47.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r48.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r48_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r48.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r49.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r49_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r49.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r50.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r50_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r50.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r51.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r51_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r51.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r52.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r52_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r52.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r53.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r53_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r53.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r54.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r54_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r54.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r55.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r55_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r55.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r56.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r56_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r56.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r57.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r57_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r57.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r58.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r58_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r58.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r59.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r59_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r59.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r60.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r60_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r60.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r61.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r61_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r61.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r62.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r62_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r62.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r63.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r63_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r63.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r64.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r64_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r64.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r65.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r65_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r65.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r66.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r66_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r66.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r67.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r67_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r67.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r68.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r68_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r68.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r69.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r69_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r69.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r70.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r70_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r70.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r71.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r71_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r71.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r72.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r72_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r72.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r73.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r73_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r73.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r74.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r74_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r74.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r75.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r75_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r75.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r76.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r76_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r76.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r77.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r77_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r77.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r78.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r78_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r78.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r79.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r79_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r79.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r80.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r80_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r80.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r81.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r81_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r81.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r82.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r82_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r82.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r83.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r83_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r83.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r84.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r84_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r84.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r85.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r85_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r85.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r86.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r86_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r86.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r87.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r87_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r87.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r88.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r88_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r88.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r89.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r89_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r89.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r90.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r90_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r90.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r91.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r91_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r91.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r92.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r92_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r92.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r93.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r93_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r93.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r94.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r94_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r94.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r95.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r95_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r95.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r96.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r96_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r96.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r97.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r97_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r97.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r98.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r98_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r98.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r99.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r99_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r99.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r100.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r100_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r100.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r101.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r101_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r101.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r102.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r102_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r102.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r103.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r103_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r103.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r104.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r104_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r104.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r105.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r105_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r105.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r106.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r106_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r106.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r107.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r107_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r107.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r108.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r108_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r108.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r109.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r109_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r109.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r110.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r110_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r110.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r111.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r111_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r111.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r112.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r112_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r112.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r113.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r113_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r113.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r114.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r114_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r114.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r115.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r115_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r115.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r116.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r116_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r116.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r117.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r117_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r117.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r118.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r118_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r118.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r119.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r119_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r119.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r120.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r120_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r120.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r121.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r121_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r121.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r122.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r122_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r122.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r123.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r123_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r123.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r124.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r124_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r124.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r125.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r125_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r125.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r126.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r126_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r126.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r127.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r127_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r127.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r128.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r128_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r128.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r129.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r129_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r129.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r130.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r130_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r130.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r131.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r131_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r131.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r132.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r132_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r132.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r133.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r133_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r133.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r134.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r134_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r134.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r135.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r135_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r135.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r136.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r136_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r136.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r137.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r137_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r137.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r138.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r138_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r138.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r139.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r139_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r139.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r140.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r140_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r140.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r141.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r141_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r141.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r142.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r142_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r142.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r143.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r143_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r143.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r144.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r144_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r144.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r145.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r145_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r145.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r146.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r146_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r146.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r147.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r147_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r147.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r148.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r148_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r148.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r149.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r149_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r149.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r150.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r150_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r150.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r151.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r151_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r151.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r152.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r152_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r152.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r153.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r153_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r153.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r154.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r154_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r154.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r155.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r155_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r155.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r156.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r156_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r156.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r157.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r157_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r157.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r158.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r158_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r158.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r159.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r159_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r159.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r160.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r160_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r160.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r161.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r161_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r161.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r162.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r162_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r162.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r163.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r163_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r163.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r164.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r164_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r164.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r165.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r165_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r165.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r166.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r166_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r166.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r167.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r167_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r167.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r168.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r168_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r168.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r169.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r169_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r169.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r170.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r170_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r170.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r171.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r171_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r171.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r172.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r172_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r172.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r173.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r173_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r173.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r174.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r174_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r174.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r175.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r175_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r175.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r176.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r176_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r176.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r177.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r177_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r177.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r178.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r178_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r178.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r179.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r179_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r179.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r180.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r180_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r180.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r181.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r181_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r181.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r182.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r182_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r182.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r183.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r183_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r183.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r184.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r184_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r184.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r185.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r185_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r185.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r186.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r186_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r186.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r187.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r187_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r187.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r188.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r188_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r188.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r189.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r189_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r189.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r190.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r190_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r190.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r191.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r191_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r191.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r192.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r192_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r192.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r193.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r193_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r193.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r194.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r194_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r194.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r195.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r195_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r195.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r196.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r196_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r196.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r197.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r197_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r197.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r198.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r198_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r198.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r199.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r199_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r199.drat': No such file or directory
+remove_core.sh: line 40: cd: postprocess/cadical/build: No such file or directory
+remove_core.sh: line 41: ../log/*.log: No such file or directory
+tail: cannot open '../log/*.log' for reading: No such file or directory
+(standard_in) 1: syntax error
+remove_core.sh: line 46: [: -eq: unary operator expected
+remove_core.sh: line 51: cd: ../../drat-trim: No such file or directory
+remove_core.sh: line 52: ./drat-trim: No such file or directory
+python: can't open file 'src/postprocess/sat_dataprocess.py': [Errno 2] No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r200.cnf': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r200_core': No such file or directory
+rm: cannot remove '../formulas/mdp_post/*_r200.drat': No such file or directory

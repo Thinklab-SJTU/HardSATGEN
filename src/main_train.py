@@ -1,13 +1,13 @@
 import numpy as np
 import os
 import torch
-from torch.utils.data import DataLoader
 from tensorboardX import SummaryWriter
 from networkx.algorithms.community import greedy_modularity_communities
 
 from args import make_args
 from train import train
 from model import GCN, SAGE
+from batch import DataLoader
 from data_lcg import Dataset_sat_intercmt, Dataset_sat_incmt, load_graphs_vig, load_graphs_lcg
 
 ### args

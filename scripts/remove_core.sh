@@ -22,11 +22,11 @@ cd ../postprocess/cadical/build
 ./cadical ../../$cnf_file --no-binary ../../$drat_file
 cd ../../drat-trim
 ./drat-trim ../$cnf_file ../$drat_file -c ../$core_file
-cd ../..
-python src/postprocess/sat_dataprocess.py --cnf $cnf_file --core $core_file --save $save_file --origin $origin_core --add_var
+cd ../../src
+python postprocess/sat_dataprocess.py --cnf $cnf_file --core $core_file --save $save_file --origin $origin_core --add_var
 rm $drat_file
 rm $core_file
-
+cd ..
 
 while [ "$no" -lt $num_iter ]; do
   no=$((no + 1))
@@ -50,12 +50,13 @@ while [ "$no" -lt $num_iter ]; do
 
   cd ../../drat-trim
   ./drat-trim ../$cnf_file ../$drat_file -c ../$core_file
-  cd ../..
-  python src/postprocess/sat_dataprocess.py --cnf $cnf_file --core $core_file --save $save_file --origin $origin_core
+  cd ../../src
+  python postprocess/sat_dataprocess.py --cnf $cnf_file --core $core_file --save $save_file --origin $origin_core
   
   rm $cnf_file
   rm $core_file
   rm $drat_file
+  cd ..
 
 done
 

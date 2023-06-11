@@ -1,8 +1,6 @@
-*.DS_Store
 graphs/*
 formulas/*
 datasets/*
 model/*
 runs/*
-postprocess/cadical/*
-postprocess/drat-trim/*
+postprocess/*

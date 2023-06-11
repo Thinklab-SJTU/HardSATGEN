@@ -10,7 +10,7 @@ python src/main_test.py --epoch_num 200 --data_name ${class} --core_flag --model
 
 # generate sat.cnf form from dat
 mkdir ./formulas/$class
-python src/eval/conversion_lcg.py --src graphs/${class}_GCN_coreTrue_1_1_${gen_num}.dat --store-dir formulas/$class --action=lcg2sat
+python src/eval/conversion_lcg.py --src graphs/${class}_GCN_coreTrue_0.9_1_${gen_num}.dat --store-dir formulas/$class --action=lcg2sat
 
 # post-process
 cd scripts && bash auto_rmcore_multi.sh $class 200 500
