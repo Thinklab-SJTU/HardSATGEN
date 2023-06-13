@@ -74,7 +74,7 @@ If needed, you can build your own dataset with collected formulae with the follo
     The generated graphs will be saved to `graphs/` directory. We can then generate CNF formulae by converting  the graphs:
 
     ```bash
-python src/eval/conversion_lcg.py --src graphs/${dataset_name}_lcg_GCN_coreTrue_alpha.dat --store-dir formulas/${dataset_name} --action=lcg2sat
+    python src/eval/conversion_lcg.py --src graphs/${dataset_name}_lcg_GCN_coreTrue_alpha.dat --store-dir formulas/${dataset_name} --action=lcg2sat 
     ```
 
 3. Post-processing:
@@ -95,7 +95,7 @@ python src/eval/conversion_lcg.py --src graphs/${dataset_name}_lcg_GCN_coreTrue_
 ## Evalution and Solver Tuning
 
 1. Evaluate graph properties of formulas. 
-    
+   
     ```bash
     # preparation
     g++ -o src/eval/scalefree eval/scalefree.cpp
@@ -105,7 +105,7 @@ python src/eval/conversion_lcg.py --src graphs/${dataset_name}_lcg_GCN_coreTrue_
     ```
     
 1. Solver tuning. 
-    
+   
     Build [glucose](https://github.com/wadoon/glucose) solver first. Download and build it under `./glucose`.
 
     ```bash
